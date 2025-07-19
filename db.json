@@ -1,0 +1,42 @@
+[
+  {
+    "customer_name": "Ayesha Rahman",
+    "customer_number": "01712345678",
+    "order_id": "ORD123456",
+    "price": "2499.99",
+    "combopack_name": "Guitar Beginner Pack",
+    "address": "House 12, Road 3, Dhanmondi, Dhaka, Bangladesh"
+  },
+  {
+    "customer_name": "Hasibul Karim",
+    "customer_number": "01987654321",
+    "order_id": "ORD123457",
+    "price": "1999.00",
+    "combopack_name": "Digital Art Starter Kit",
+    "address": "Flat B2, Bashundhara R/A, Dhaka, Bangladesh"
+  },
+  {
+    "customer_name": "Tanisha Ahmed",
+    "customer_number": "01811223344",
+    "order_id": "ORD123458",
+    "price": "2999.50",
+    "combopack_name": "Photography Essentials Combo",
+    "address": "35 Green Road, Panthapath, Dhaka, Bangladesh"
+  },
+  {
+    "customer_name": "Rakibul Islam",
+    "customer_number": "01633445566",
+    "order_id": "ORD123459",
+    "price": "1799.75",
+    "combopack_name": "Creative Writing Bundle",
+    "address": "45/A Kazi Nazrul Avenue, Chattogram, Bangladesh"
+  },
+  {
+    "customer_name": "Nusrat Jahan",
+    "customer_number": "01599887766",
+    "order_id": "ORD123460",
+    "price": "2200.00",
+    "combopack_name": "Graphic Design Masterpack",
+    "address": "Apartment 3C, Uttara Sector 10, Dhaka, Bangladesh"
+  }
+]
